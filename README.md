@@ -31,7 +31,7 @@ jsDelivr为融合CDN，在全球分布750余节点（包括中国），并Github
 需要设置的内容：<br>
 Github用户名：必填，您的Github用户名。<br>
 Github仓库名：必填，您用于储存附件文件的仓库名称。<br>
-Github账号token：必填，您的Github账号的token，不知道如何获取账号token请[点击这里](https://wq.best/dev/151.html "点击这里")。<br>
+Github账号token：必填，您的Github账号的token，不知道如何获取账号token请[点击这里](https://zhuanlan.zhihu.com/p/550294543 "点击这里")。<br>
 Github仓库内的上传目录：必填，附件上传到的仓库内目录位置。如果您不知道如何填写，建议保持默认内容。<br>
 文件链接访问方式：建议选择"访问最新版本"。若修改图片，直接访问方式不方便更新缓存。<br>
 是否保存在本地：是否将文件保存到本地<br>
